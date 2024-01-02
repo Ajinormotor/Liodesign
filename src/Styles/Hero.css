@@ -1,0 +1,23 @@
+.hero__wrapper{
+    background: #444444;
+    
+}
+
+.hero__img{
+    width: 400px;
+    height: 350px;
+    border-radius: 7%;
+    background: #bab7b7;
+    right: 0px;
+    
+}
+
+.hero__img img{
+    object-fit: cover;
+    width: 90%;
+    height: 100%;
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 7%;
+  
+}

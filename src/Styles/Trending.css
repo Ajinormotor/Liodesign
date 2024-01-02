@@ -1,0 +1,17 @@
+#trending{
+    background:linear-gradient(rgba(0, 0, 0,0.5),rgba(0, 0, 0,0.5)), url('../Assets/Photo/Images/toa.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+
+.t__img{
+    object-fit: contain;
+    object-position: center;
+    justify-content: space-between;
+    height: 200px;
+
+    }
